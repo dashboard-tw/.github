@@ -14,6 +14,7 @@
 | 專案 | 說明 |
 |---|---|
 | [Taiwan-Dashboard](https://github.com/dashboard-tw/Taiwan-Dashboard) | 網站與開放資料 API 的原始碼，後端是 Go，前端是 Vue 3 |
+| [SampleCode](https://github.com/dashboard-tw/SampleCode) | 開放資料 API 的範例程式，示範如何取得 Access Token 並呼叫 API |
 
 ## 連結
 
