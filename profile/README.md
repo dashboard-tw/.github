@@ -20,6 +20,7 @@
 
 - [網站](https://dashboard.tw)
 - [開放資料 API](https://dashboard.tw/developers)：登入後可以免費申請憑證
+- [MCP](https://dashboard.tw/developers/mcp)：讓 AI 工具直接查詢資料
 - [應用活化](https://dashboard.tw/showcase/app)：使用本站資料做成的作品
 - [Discord](https://discord.gg/gU5gndueZH)
 
