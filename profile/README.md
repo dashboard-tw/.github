@@ -15,6 +15,8 @@
 |---|---|
 | [Taiwan-Dashboard](https://github.com/dashboard-tw/Taiwan-Dashboard) | 網站與開放資料 API 的原始碼，後端是 Go，前端是 Vue 3 |
 | [SampleCode](https://github.com/dashboard-tw/SampleCode) | 開放資料 API 的範例程式，示範如何取得 Access Token 並呼叫 API |
+| [DiscordBot](https://github.com/dashboard-tw/DiscordBot) | Rust Discord 機器人實作範例，示範以 API 憑證取得資料並提供 Discord 指令互動 |
+| [WaterMonitor](https://github.com/dashboard-tw/WaterMonitor) | 全臺水庫即時水情儀表板實作範例，示範將開放資料 API 整合至網頁應用 |
 
 ## 連結
 
@@ -28,4 +30,6 @@
 
 歡迎回報問題、提出建議或送出 Pull Request，請先看 [貢獻指南](https://github.com/dashboard-tw/Taiwan-Dashboard/blob/main/CONTRIBUTING.md)。資安問題請依 [資安政策](https://github.com/dashboard-tw/Taiwan-Dashboard/blob/main/SECURITY.md) 私下回報。
 
-其他事情可以寫信到 support@dashboard.tw。
+若有任何疑問或需要協助，歡迎透過以下方式聯繫我們：
+客服信箱：support@dashboard.tw
+Discord 社群：https://discord.gg/gU5gndueZH
